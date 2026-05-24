@@ -1,0 +1,6 @@
+{
+  "name": "NurtureAI",
+  "description": "Secure, compassionate offline AI assistant & smart tracking system for new parents",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
